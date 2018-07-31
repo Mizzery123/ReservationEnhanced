@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="nameInput">Name :</string>
+    <string name="nameExample">Enter your name</string>
+    <string name="mobile">Mobile No :</string>
+    <string name="mobileDes">Enter mobile number</string>
+    <string name="size">Size of Group :</string>
+    <string name="sizeDes">Enter number of people</string>
+    <string name="rButton">Table in Smoking Area</string>
+    <string name="timeanddate">Select Time and Date of booking</string>
+    <string name="rButton2">Table in Non Smoking Area</string>
+    <string name="smokeSelect">Please select :</string>
+    <string name="confirm">Confirm</string>
+    <string name="reset">Reset</string>
+    <string name="smoke">Smoking</string>
+    <string name="day">Day</string>
+    <string name="time">Time</string>
+</resources>
